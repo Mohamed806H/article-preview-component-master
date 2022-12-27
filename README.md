@@ -3,11 +3,12 @@
 This is a solution to the [Article preview component challenge on Frontend Mentor](https://www.frontendmentor.io/challenges/article-preview-component-dYBN_pYFT).
 ## Screenshot
 
+![desktop-preview](https://user-images.githubusercontent.com/91362640/209735463-2bd41c3a-55a3-4157-9263-68aeca55de37.jpg)
 
 ## Links
 
-- Solution URL:
-- Live Site URL:
+- Solution URL:https:(//www.frontendmentor.io/solutions/article-preview-component-nZUjD7fg7D)
+- Live Site URL:https://mohamed806h.github.io/article-preview-component-master/
 
 ## Built with
 
