@@ -7,8 +7,8 @@ This is a solution to the [Article preview component challenge on Frontend Mento
 
 ## Links
 
-- Solution URL:https:(//www.frontendmentor.io/solutions/article-preview-component-nZUjD7fg7D)
-- Live Site URL:https://mohamed806h.github.io/article-preview-component-master/
+- Solution URL:(https://www.frontendmentor.io/solutions/article-preview-component-nZUjD7fg7D)
+- Live Site URL:(https://mohamed806h.github.io/article-preview-component-master/)
 
 ## Built with
 
